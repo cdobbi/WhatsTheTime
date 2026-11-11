@@ -4,12 +4,6 @@ Whats the Time helps BYU Pathway religion teachers and students understand class
 
 Enter the class date and time in your teacher's time zone (Mountain Time – Denver by default), and the app shows when that class happens where you live. It detects your time zone automatically, warns you when a daylight saving change in either location moved the class since last week, explains times that are skipped or repeated on the day clocks change, and lets you copy a link that shows the same class in each classmate's own local time. Everything runs in your browser; no account, tracking, or personal data is involved.
 
-## Team
-
-- [Steve Ward](https://github.com/ward-wolf/wdd430-portfolio)
-- [Christi Dobbins](https://github.com/cdobbi/wdd430-portfolio)
-- [Emmanuel Bassey](https://github.com/emmanuelbassey685/wdd430-portfolio)
-
 ## Getting Started
 
 Install dependencies and start the development server:
